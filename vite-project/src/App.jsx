@@ -1,4 +1,4 @@
-import Header from 'vite-project/src/Header.jsx'
+import Header from './Header.jsx'
 
 function App() {
   return (
